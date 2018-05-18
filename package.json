@@ -1,7 +1,7 @@
 {
   "name": "testnodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "description...",
   "engines": {
     "node": "8.11.1"
   },
