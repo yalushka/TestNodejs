@@ -8,7 +8,7 @@ var port = process.env.PORT || process.env.OPENSHIFT_NODEJS_PORT || 8080,
 
 //console.log(port);
 http.createServer((req,res)=>{
-    res.end('a very simple nodejs test...');
+    res.end('<h1>yet another test...</h1>');
 }).listen(port,ip);
 
 
