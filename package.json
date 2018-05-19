@@ -5,7 +5,7 @@
   "engine": {
     "node": "*",
     "npm": "*"
-},
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,7 +14,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/yalushka/TestNodejs.git"
-},
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
